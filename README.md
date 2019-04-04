@@ -18,21 +18,21 @@ The main steps:
 __HINT: Exclamation mark (!) at the beginning of line allows to use bash commands from jupyter notebook__
 
 # Requirements:
-Anaconda
-Python 2.7 or Python 3.x
-PyGenomeTrack
-samtools
-bedtools
-sortbed
-gff3togenepred
-genepredtobed
-numpy >= 1.8.0
-scipy >= 0.17.0
-py2bit >= 0.1.0
-pyBigWig >= 0.2.1
-pysam >= 0.8
-matplotlib >= 1.4.0
-deeptools
+* Anaconda
+* Python 2.7 or Python 3.x
+* PyGenomeTrack
+* samtools
+* bedtools
+* sortbed
+* gff3togenepred
+* genepredtobed
+* numpy >= 1.8.0
+* scipy >= 0.17.0
+* py2bit >= 0.1.0
+* pyBigWig >= 0.2.1
+* pysam >= 0.8
+* matplotlib >= 1.4.0
+* deeptools
 
 # Types of formats
 * [GFF3](https://www.ensembl.org/info/website/upload/gff3.html) - General Feature Format Version 3
