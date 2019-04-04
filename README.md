@@ -6,14 +6,15 @@ The workflow describes the tools to convert the files into the formats: BED6, BE
 The [PyGenomeTrack](https://github.com/deeptools/pyGenomeTracks) aims to produce high-quality genome browser tracks.
 
 The main steps:
-    0. Installation of requirements.
-    1. Prepare your .gff3 files.
-    2. Convert .gff3 into .bed6.
-    3. Convert .gff3 into .bed12.
-    4. Make .bigwig file from BAM/SAM format.
-    5. Prepare the .ini files - from scrach or by edition of the example file.
-    6. PyGenomeTracks - make tracks file.
-    7. PyGenomeTracks - make region plot
+* Installation of requirements.
+* Prepare your GFF3 files.
+* Convert GFF3 into BED6.
+* Convert GFF3 into BED12.
+* Sort your BED6/BED12 file
+* Make BigWig file from BAM/SAM format.
+* Prepare the .INI files - from scrach or by edition of the example file.
+* PyGenomeTracks - make tracks file.
+* PyGenomeTracks - make region plot
 
 __HINT: Exclamation mark (!) at the beginning of line allows to use bash commands from jupyter notebook__
 
