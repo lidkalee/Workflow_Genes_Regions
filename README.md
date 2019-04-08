@@ -19,7 +19,6 @@ The main steps:
 __HINT: Exclamation mark (!) at the beginning of line allows to use bash commands from jupyter notebook__
 
 # Requirements:
-* Anaconda
 * Python 2.7 or Python 3.x
 * PyGenomeTrack
 * samtools
