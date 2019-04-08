@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """
+Authors: Igor Zubrycki, Lidia Lipińska
+
 różne 'helper functions' do czytania i edycji plików ini
 
 słownik do ini ma zawsze formę:
