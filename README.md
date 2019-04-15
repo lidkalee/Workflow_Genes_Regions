@@ -1,6 +1,6 @@
-# Workflow of preparation of Sequencing data and usage of PyGenomeTrack as a tool to visualize genome regions
+# Workflow of genomic data visualization using PyGenomeTrack
 
-This notebook contains a procedure to prepare the sequencing data and to create the region plots. 
+This notebook contains a procedure to prepare the sequencing data for visualization of the region plots. 
 The workflow describes the tools to convert the files into the formats: BED6, BED12, BAM, and BIGWIG. Additionally, we formed the helper functions to create .ini files from scratch.
 
 The [PyGenomeTrack](https://github.com/deeptools/pyGenomeTracks) aims to produce high-quality genome browser tracks.
@@ -16,7 +16,7 @@ The main steps:
 * PyGenomeTracks - make tracks file.
 * PyGenomeTracks - make region plot
 
-__HINT: Exclamation mark (!) at the beginning of line allows to use bash commands from jupyter notebook__
+__HINT:__ Exclamation mark (!) at the beginning of line allows to use bash commands from jupyter notebook.
 
 # Requirements:
 * Python 2.7 or Python 3.x
